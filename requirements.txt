@@ -1,0 +1,17 @@
+ipython
+gdown
+unzip
+numpy
+pandas
+Pillow
+matplotlib
+seaborn
+onnxruntime
+pydot
+pydotplus
+graphviz
+opencv-python
+tensorflow
+tensorboard
+scikit-learn
+setuptools

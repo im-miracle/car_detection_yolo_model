@@ -78,6 +78,11 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Data Set
+noteBook/dataSet
+noteBook/modelUnzipLoc
+noteBook/unzipLoc
+
 # IPython
 profile_default/
 ipython_config.py
